@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.AD02{
+    max-width: 250px;
+    max-height: 250px;
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url('AD02.png');
+    background-size: cover;
+    background-position: center;
+    
+}
